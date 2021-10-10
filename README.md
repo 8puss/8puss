@@ -5,7 +5,7 @@
 - 💬 Ask me about crypto, music and philosophy 
 - 📫 How to reach me: 
     - rodrx20@gmail.com
-    - [TW](https://twitter.com/8pus_)
+    - [TW](https://twitter.com/rdrx_)
 
 ## Web
 
