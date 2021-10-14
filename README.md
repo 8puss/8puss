@@ -9,4 +9,6 @@
 
 ## Web
 
-* [Main landing page](https://8puss.github.io/static/EN/englishversion.html)
+* [Main landing page](https://rdr-x.github.io/static/ES/index.html)
+* [JS Challenge](https://rdr-x.github.io/JS-practico-platzi/index.html)
+* [E-commerce-practico-platzi](https://rdr-x.github.io/E-commerce-practico-platzi/public/templates/index.html)
