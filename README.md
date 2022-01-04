@@ -1,14 +1,18 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning web development, python for data science and machine learning
-- 👯 I’m looking to collaborate on web development, IoT and digital art
-- 💬 Ask me about crypto, music and philosophy 
+- 🌱 I’m currently learning web development including all HTML and CSS technologies and a Javascript framework called Vue.Js. This also includes some back-end skills like deploying a server through Node.js, Express.js, Sequelize (ORM), Passport (auth) in API Rest architecture.
+- I also create Twitter bots using Python with basic Machine Learning stuff
+- 👯 I’m looking to collaborate on web development, IoT and Web3!
+- 💬 Ask me about crypto, cybernetics and philosophy 
 - 📫 How to reach me: 
-    - rodrx20@gmail.com
-    - [TW](https://twitter.com/rdrx_)
+    - [Mail](rodrx20@gmail.com)
+    - [Twitter](https://twitter.com/rdrx_)
+    - [Linkedin](https://www.linkedin.com/in/rodrx20/)
 
-## Web
+## Some awesome web projects!
 
 * [Main landing page](https://rdr-x.github.io/static/ES/index.html)
 * [JS Challenge](https://rdr-x.github.io/JS-practico-platzi/index.html)
-* [E-commerce-practico-platzi](https://rdr-x.github.io/E-commerce-practico-platzi/public/templates/index.html)
+* [Platzi's e-commerce course](https://rdr-x.github.io/E-commerce-practico-platzi/public/templates/index.html)
+* [Crypto ranking](https://crypto-rank.netlify.app/)
+* [Library management](https://immense-garden-99230.herokuapp.com/)
