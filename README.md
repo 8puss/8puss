@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning web development including all HTML and CSS technologies and a Javascript framework called Vue.Js. This also includes some back-end skills like deploying a server through Node.js, Express.js, Sequelize (ORM), Passport (auth) in API Rest architecture.
+- 🌱 I’m currently learning web development including all HTML and CSS technologies and some of the Javascript frameworks just as Vue.js or React.js and Webpack as module bundler. This also includes some back-end skills like deploying a server through Node.js, Express.js, Sequelize (ORM), Passport (auth) in API Rest architecture.
 - I also create Twitter bots using Python with basic Machine Learning stuff
 - 👯 I’m looking to collaborate on web development, IoT and Web3!
 - 💬 Ask me about crypto, cybernetics and philosophy 
