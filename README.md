@@ -19,3 +19,6 @@
 * [Platzi's e-commerce course](https://rdr-x.github.io/E-commerce-practico-platzi/public/templates/index.html)
 * [Crypto ranking](https://crypto-rank.netlify.app/)
 * [Library management](https://immense-garden-99230.herokuapp.com/)
+
+## Some awesome web3 projects!
+* [DoChain](https://dochain.vercel.app/) (team project | I contribute in the API back-end)
