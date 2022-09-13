@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning web development including all HTML and CSS technologies and some of the Javascript frameworks just as Vue.js or React.js and Webpack as module bundler. This also includes some back-end skills like deploying a server through Node.js, Express.js, Sequelize (ORM), Passport (auth) in API Rest architecture.
+💻 Computer Systems Engineering student | Fullstack js developer | blockchain  developer 🧠 
+
+- 🌱 I’m currently learning blockchain development through Solidity and its Smart Contracts. This also includes all the Javascript librarys for web3 integration just as Web3.js and ethers.js. I like to create UI using Vue or React as js frameworks and Webpack as module bundler.
+- I have some back-end experience deploying servers through Node.js, Express.js, Sequelize (ORM), Passport (auth) in API Rest architecture.
 - I also create Twitter bots using Python with basic Machine Learning stuff
-- 👯 I’m looking to collaborate on web development, IoT and Web3!
-- 💬 Ask me about crypto, cybernetics and philosophy 
+- 👯 I’m looking to collaborate on web development, Web3 and IoT!
+- 💬 Ask me about blockchain, cybernetics and philosophy 
 - 📫 How to reach me: 
     - [Mail](rodrx20@gmail.com)
     - [Twitter](https://twitter.com/rdrx_)
