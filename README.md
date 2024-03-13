@@ -1,24 +1,14 @@
 ## Hi there 👋
 
-💻 Computer Systems Engineering student | Fullstack js developer | blockchain  developer 🧠 
+💻 Computer Systems Engineering student | Fullstack ts developer | blockchain developer 🧠 
 
-- 🌱 I’m currently learning blockchain development through Solidity and its Smart Contracts. This also includes all the Javascript librarys for web3 integration just as Web3.js and ethers.js. I like to create UI using Vue or React as js frameworks and Webpack as module bundler.
-- I have some back-end experience deploying servers through Node.js, Express.js, Sequelize (ORM), Passport (auth) in API Rest architecture.
-- I also create Twitter bots using Python with basic Machine Learning stuff
+- 🌱 I’m currently learning blockchain enigneering on EVM-based systems. Also, practicing some dApp development using Solidity and its Smart Contracts. This also includes all the JS/TS and Python libraries for web3 integration just as Web3.js, ethers.js and web3py.
+- I have some back-end experience developing, deploying and maintaining servers through Node.js, Express.js, Sequelize (ORM), Passport (auth) in API Rest architecture. As front-end developer I have experience on UI dev using Vue or Next.js (React) as js frameworks and Webpack as module bundler.
+- Recently getting into the cybersecurity field!
+- Participated on previous ETH Global hackatons!
 - 👯 I’m looking to collaborate on web development, Web3 and IoT!
 - 💬 Ask me about blockchain, cybernetics and philosophy 
 - 📫 How to reach me: 
-    - [Mail](rodrx20@gmail.com)
-    - [Twitter](https://twitter.com/rdrx_)
+    - [Twitter](https://twitter.com/0xInformatio)
     - [Linkedin](https://www.linkedin.com/in/rodrx20/)
 
-## Some awesome web projects!
-
-* [Main landing page](https://rdr-x.github.io/static/ES/index.html)
-* [JS Challenge](https://rdr-x.github.io/JS-practico-platzi/index.html)
-* [Platzi's e-commerce course](https://rdr-x.github.io/E-commerce-practico-platzi/public/templates/index.html)
-* [Crypto ranking](https://crypto-rank.netlify.app/)
-* [Library management](https://immense-garden-99230.herokuapp.com/)
-
-## Some awesome web3 projects!
-* [DoChain](https://dochain.vercel.app/) (team project | I contribute in the API back-end)
