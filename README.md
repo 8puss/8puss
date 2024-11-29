@@ -34,6 +34,7 @@
 
 ![Chainlink][Chainlink]
 ![Open Zeppelin][OpenZeppelin]
+![Wagmi][Wagmi]
 
 ## Other Skills
 ![Docker][Docker]
@@ -54,6 +55,8 @@
 
 ## 🔗 You can find me on
 
+  <a target="_blank" href="https://www.raa.dev/" title="raa's landing page">raa.dev</a>
+
   <a target="_blank" href="https://x.com/0x_raa" title="raa on X">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="X">
   </a>
@@ -64,12 +67,14 @@
     <img src="https://img.shields.io/badge/Farcaster-855DCD?logo=farcaster&logoColor=fff&style=for-the-badge" alt="Farcaster">
   </a>
 
+ ## 📊 Some statistic 
+[![raa's GitHub stats](https://github-readme-stats.vercel.app/api?username=raa-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [C-Badge]: https://img.shields.io/badge/C-8A9597?style=for-the-badge&logo=c&logoColor=white
 [Java-Badge]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-[Rust-Badge]: https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=rust&logoColor=white
+[Rust-Badge]: https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge
 [JavaScript-Badge]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [Solidity-Badge]: https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white
 [TypeScript-Badge]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white 
@@ -91,8 +96,9 @@
 [GIT]: https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white
 [Node]: https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white
 [Docker]: https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white
-[Kubernetes]: https://img.shields.io/badge/kubernetes-326CE5?&style=plastic&logo=kubernetes&logoColor=white
+[Kubernetes]: https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge
 [GitHub]: https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white
-[DataDog]: https://img.shields.io/badge/-DataDog-000?logo=datadog
-[SpringBoot]: https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white
+[DataDog]: https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=fff&style=for-the-badge
+[SpringBoot]: https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge
 [Gradle]: https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white
+[Wagmi]: https://img.shields.io/badge/Wagmi-000?logo=wagmi&logoColor=fff&style=for-the-badge
