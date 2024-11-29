@@ -1,12 +1,13 @@
-## Hello worlds 👋
+## Hello world 👋
 
 💻 Computer Systems Engineering student | Fullstack ts developer | blockchain developer 🧠 
 
-- 🌱 I’m currently learning blockchain enigneering on EVM-based systems. Also, practicing some dApp development using Solidity and its Smart Contracts. This also includes all the JS/TS and Python libraries for web3 integration just as Web3.js, ethers.js and web3py.
+- Pretty interested in Ethereum core architecture and development. I participated doing some research in EPF study group wiki by adding pages such as the JSON-RPC specs and devp2p (PR still open)
+- 🌱 The last couple of years I've been involved in blockchain enigneering on EVM-based systems. Also, practicing some dApp development using Solidity and its Smart Contracts. This also includes all the JS/TS and Python libraries for web3 integration just as Web3.js, ethers.js and web3py.
+- Recently incursioning into web3 security researching using tools such as certora prover and foundry, as well as participating in contest.
 - I have some back-end experience developing, deploying and maintaining servers through Node.js, Express.js, Sequelize (ORM), Passport (auth) in API Rest architecture. As front-end developer I have experience on UI dev using Vue or Next.js (React) as js frameworks and Webpack as module bundler.
-- Recently getting into the cybersecurity field!
 - Participated on previous ETH Global hackatons!
-- 👯 I’m looking to collaborate on web development, Web3 and IoT!
+- 👯 I’m looking to collaborate on Web3 projects!
 - 💬 Ask me about blockchain, cybernetics and philosophy 
 
 ## 🎯 Technical skills
@@ -14,30 +15,61 @@
 ![JavaScript][JavaScript-Badge]
 ![TypeScript][TypeScript-Badge]
 ![Solidity][Solidity-Badge]
+
 ![Python][Python-Badge]
+![Java][Java-Badge]
+![C][C-Badge]
+![Rust][Rust-Badge]
 
 ### Frameworks and libraries
 ![React][React-Badge]
 ![Next][Next-Badge]
+![Vue][Vue-Badge]
+![SpringBoot][SpringBoot]
+
 ### Web 3
 ![EVM][EVM]
 ![Web3.js][Web3.js]
 ![Ether.js][Ether.js-Badge]
+
 ![Chainlink][Chainlink]
 ![Open Zeppelin][OpenZeppelin]
+
+## Other Skills
+![Docker][Docker]
+![Gradle][Gradle]
+![Node][Node]
+![HTML][HTML5]
+![CSS][CSS3]
+![Git][GIT]
+![DataDog][DataDog]
+
+![GitHub][GitHub]
+![Postgres][Postgre-badge]
+![MySQL][MySQL-Bagde]
+![TailwindCSS][Tailwind-Badge]
+![Ubuntu][Ubuntu]
+![Kubernetes][Kubernetes]
+
 
 ## 🔗 You can find me on
 
   <a target="_blank" href="https://x.com/0x_raa" title="raa on X">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="X">
   </a>
   <a target="_blank" href="https://linkedin.com/in/rodrx20" title="Rodrigo Ramos Xochiteotzin">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a target="_blank" href="https://warpcast.com/raa" title="raa on Farcaster">
+    <img src="https://img.shields.io/badge/Farcaster-855DCD?logo=farcaster&logoColor=fff&style=for-the-badge" alt="Farcaster">
   </a>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[C-Badge]: https://img.shields.io/badge/C-8A9597?style=for-the-badge&logo=c&logoColor=white
+[Java-Badge]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+[Rust-Badge]: https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=rust&logoColor=white
 [JavaScript-Badge]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [Solidity-Badge]: https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white
 [TypeScript-Badge]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white 
@@ -45,6 +77,7 @@
 [MySQL-Bagde]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
 [Postgre-badge]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
 [React-Badge]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[Vue-Badge]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Tailwind-Badge]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
 [Next-Badge]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Ether.js-Badge]: https://img.shields.io/badge/Ethers.js-7A98FB?style=for-the-badge&logo=Ethers.js&logoColor=white
@@ -52,3 +85,14 @@
 [Chainlink]: https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white
 [OpenZeppelin]: https://img.shields.io/badge/OpenZeppelin-65aef8?&style=for-the-badge&logo=OpenZeppelin&logoColor=white
 [EVM]: https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white
+[Ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+[HTML5]:https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[CSS3]:https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[GIT]: https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white
+[Node]: https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white
+[Docker]: https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white
+[Kubernetes]: https://img.shields.io/badge/kubernetes-326CE5?&style=plastic&logo=kubernetes&logoColor=white
+[GitHub]: https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white
+[DataDog]: https://img.shields.io/badge/-DataDog-000?logo=datadog
+[SpringBoot]: https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white
+[Gradle]: https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white
